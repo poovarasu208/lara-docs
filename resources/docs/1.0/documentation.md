@@ -1,0 +1,28 @@
+- ## Home
+    - [Reference](/docs/reference)
+- ## Common
+    - [Coding standards](/docs/coding-standards)
+- ## Web
+    - [Authentication (In-Built)](/docs/web-authentication)
+    - [Front End checklist](/docs/frontend-checklist)
+- ## Api
+    - [Authentication (JWT)](/docs/authentication)
+    - [App Versioning](/docs/app-versioning)
+    - [API Versioning](/docs/api-versioning)
+    - [Push Notification](/docs/push-notification)
+    - [Error Codes](/docs/error-codes)
+    - [Status Codes](/docs/status-codes)
+    - [TDD](/docs/testing)
+    - [Transformers](/docs/transformers)
+- ## Admin
+    - [Nova](/docs/nova)
+    - [Boiler Plate](/docs/boiler-plate)
+- ## Performance
+    - [(n+1) Query Detection](/docs/query)
+    - [Memory profile](/docs/optimisation)
+    - [Monitoring (New Relic)](/docs/monitoring)
+    - [Cache](/docs/cache)
+- ## Security
+    - [Owasp (*)](/docs/owasp)
+    - [User Permissions (Roles and Rights)](/docs/permissions)
+  
