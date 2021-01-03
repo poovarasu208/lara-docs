@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return redirect('/docs');
 });
+
+Route::fallback(function () {
+    return redirect('/docs');
+});
